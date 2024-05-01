@@ -9,3 +9,11 @@ I will keep on updating the questions and various algorithms which are frequentl
 1.) Lists (Arrays)
 
 2.) Trees
+
+3.) Hashmaps - 
+        -> Employees under each employee
+        -> Generate the entire itenary from a source to destination
+        -> Array pairs divisible by k
+        -> Distinct elements in window of size k
+        -> Count pairs divisible by k
+        -> Largest Subarray with sum 0, Contiguous subarray
